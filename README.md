@@ -1,1 +1,0 @@
-# docs-cdn-trezor.github.io
